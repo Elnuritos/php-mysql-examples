@@ -8,6 +8,6 @@ CREATE TABLE playrs (
     salary INT(6),
     ycard INT(2),
     rcard INT(2),
-    injured BOOLEAN,
+    
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
